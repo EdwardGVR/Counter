@@ -11,7 +11,8 @@ body {
     font-family: "Lato", sans-serif;
     font-size: 20pt;
     font-weight: normal;
-    background-image: url("img/bg.jpg.jpg");
+    /* background-image: url("img/bg.jpg.jpg"); */
+    background-image: url("https://wallpapershome.com/images/pages/pic_h/272.jpg");
   }
   
   .main {
